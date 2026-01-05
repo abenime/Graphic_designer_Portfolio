@@ -8,7 +8,10 @@ interface ParticleBackgroundProps {
   interactive?: boolean;
 }
 
-const ParticleBackground = ({ className = "", interactive = true }: ParticleBackgroundProps) => {
+const ParticleBackground = ({
+  className = "",
+  interactive = true,
+}: ParticleBackgroundProps) => {
   const [init, setInit] = useState(false);
 
   useEffect(() => {
@@ -19,9 +22,12 @@ const ParticleBackground = ({ className = "", interactive = true }: ParticleBack
     });
   }, []);
 
-  const particlesLoaded = useCallback(async (container: Container | undefined) => {
-    console.log("Particles loaded", container);
-  }, []);
+  const particlesLoaded = useCallback(
+    async (container: Container | undefined) => {
+      console.log("Particles loaded", container);
+    },
+    []
+  );
 
   const options: ISourceOptions = useMemo(
     () => ({
@@ -77,7 +83,7 @@ const ParticleBackground = ({ className = "", interactive = true }: ParticleBack
           density: {
             enable: true,
           },
-          value: 80,
+          value: 140,
         },
         opacity: {
           value: {
