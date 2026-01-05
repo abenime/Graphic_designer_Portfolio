@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "name": "Sarah Mitchell",
+    "role": "Founder",
+    "company": "Nebula Coffee Co.",
+    "image": "https://images.unsplash.com/photo-1494790108377-be9c29b29330?w=400&q=80",
+    "content": "Working with Abenime was transformative for our brand. The logo and identity system perfectly captures our cosmic coffee journey. The attention to detail and strategic thinking behind every design decision was impressive.",
+    "rating": 5,
+    "project": "Brand Identity"
+  },
+  {
+    "id": "2",
+    "name": "Marcus Chen",
+    "role": "CEO",
+    "company": "Flux Technologies",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=400&q=80",
+    "content": "The UI design for our fintech app exceeded all expectations. Abenime understood our complex requirements and delivered an interface that's both beautiful and incredibly user-friendly. Our user engagement has doubled since launch.",
+    "rating": 5,
+    "project": "App Design"
+  },
+  {
+    "id": "3",
+    "name": "Elena Rodriguez",
+    "role": "Editor-in-Chief",
+    "company": "Echoes Publishing",
+    "image": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=400&q=80",
+    "content": "The magazine design Abenime created is a work of art. Every spread tells a story, and the typography choices are exquisite. We've received countless compliments from readers and industry peers alike.",
+    "rating": 5,
+    "project": "Editorial Design"
+  },
+  {
+    "id": "4",
+    "name": "David Okonkwo",
+    "role": "Marketing Director",
+    "company": "Horizon Corp",
+    "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=400&q=80",
+    "content": "Our annual report went from a boring obligation to a visual showcase of our achievements. The infographics made complex data accessible, and stakeholders were genuinely impressed.",
+    "rating": 5,
+    "project": "Print Design"
+  },
+  {
+    "id": "5",
+    "name": "Amanda Foster",
+    "role": "Owner",
+    "company": "The Artisan Bakery",
+    "image": "https://images.unsplash.com/photo-1487412720507-e7ab37603c6f?w=400&q=80",
+    "content": "Abenime captured the soul of our bakery in the brand design. The hand-crafted feel combined with modern aesthetics is exactly what we envisioned. Our customers love the new look!",
+    "rating": 5,
+    "project": "Brand Identity"
+  },
+  {
+    "id": "6",
+    "name": "James Patterson",
+    "role": "Product Manager",
+    "company": "HealthPlus",
+    "image": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=400&q=80",
+    "content": "The wellness dashboard design made health tracking actually enjoyable for our users. The thoughtful UX decisions and calming visual design resulted in a 40% increase in daily active users.",
+    "rating": 5,
+    "project": "Dashboard Design"
+  },
+  {
+    "id": "7",
+    "name": "Lisa Thompson",
+    "role": "Author",
+    "company": "Children's Press",
+    "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?w=400&q=80",
+    "content": "The mythical creatures illustrations brought my stories to life in ways I never imagined. Each character has so much personality while respecting the cultural origins. Children absolutely love them!",
+    "rating": 5,
+    "project": "Illustration"
+  },
+  {
+    "id": "8",
+    "name": "Robert Kim",
+    "role": "Brand Manager",
+    "company": "TechStart Inc.",
+    "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=400&q=80",
+    "content": "Professional, creative, and incredibly easy to work with. Abenime delivered our complete brand package ahead of schedule and the quality surpassed our expectations.",
+    "rating": 5,
+    "project": "Brand Identity"
+  }
+]

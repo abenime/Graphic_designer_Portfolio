@@ -1,0 +1,74 @@
+[
+  {
+    "id": "1",
+    "title": "The Art of Minimalist Logo Design",
+    "slug": "art-of-minimalist-logo-design",
+    "excerpt": "Discover the principles behind creating logos that are simple yet memorable. Less is more, but achieving that simplicity requires deep understanding.",
+    "content": "In a world saturated with visual noise, minimalist logos stand out by doing less. But don't be fooled—creating a simple logo is far from easy. It requires distilling a brand's essence down to its most fundamental visual elements.\n\nThe key principles of minimalist logo design include:\n\n**1. Essential Forms**\nEvery element must serve a purpose. If you can remove something without losing meaning, remove it.\n\n**2. Meaningful Negative Space**\nThe space around and within your design is just as important as the marks you make.\n\n**3. Timeless Geometry**\nSimple geometric shapes have universal appeal and age gracefully.\n\n**4. Versatility**\nA minimalist logo must work at any size, in any context, and in a single color.\n\nThe masters of minimalist design—Paul Rand, Saul Bass, Ivan Chermayeff—understood that simplicity is the result of thoughtful reduction, not arbitrary removal. Study their work and you'll see how every curve, every angle was deliberately chosen.\n\nRemember: simple doesn't mean easy. It means clear, focused, and intentional.",
+    "image": "https://images.unsplash.com/photo-1558655146-d09347e92766?w=800&q=80",
+    "category": "Design Tips",
+    "author": "Abenezer Tilahun",
+    "date": "2024-01-15",
+    "readTime": "5 min"
+  },
+  {
+    "id": "2",
+    "title": "Typography Trends to Watch in 2024",
+    "slug": "typography-trends-2024",
+    "excerpt": "From variable fonts to kinetic type, explore the typography trends shaping design this year and how to incorporate them in your work.",
+    "content": "Typography is evolving faster than ever. Here are the trends defining type design in 2024:\n\n**Variable Fonts Go Mainstream**\nVariable fonts are no longer experimental. Designers are using them for responsive design, creative animations, and more efficient web performance.\n\n**Maximalist Display Type**\nAfter years of clean sans-serifs, we're seeing bold, expressive display typefaces making statements.\n\n**Kinetic Typography**\nMotion-enabled type is everywhere, from websites to social media. Static text feels increasingly dated.\n\n**Hand-Drawn Revival**\nIn reaction to AI-generated perfection, hand-drawn letterforms bring authenticity and warmth.\n\n**Brutalist Typography**\nRaw, unconventional type treatments that break rules deliberately continue to push boundaries.\n\nThe best approach? Understand these trends but don't chase them blindly. Use what serves your project's goals.",
+    "image": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+    "category": "Trends",
+    "author": "Abenezer Tilahun",
+    "date": "2024-01-08",
+    "readTime": "4 min"
+  },
+  {
+    "id": "3",
+    "title": "Building a Cohesive Brand Identity System",
+    "slug": "cohesive-brand-identity-system",
+    "excerpt": "Learn how to create brand systems that work across every touchpoint while maintaining flexibility for future growth.",
+    "content": "A logo is just the beginning. A complete brand identity system ensures consistency while allowing creative flexibility.\n\n**Core Elements**\n- Primary and secondary logos\n- Color palette with hierarchy\n- Typography system\n- Graphic elements and patterns\n- Photography style\n- Voice and tone guidelines\n\n**Building Flexibility**\nThe best brand systems have clear rules but room for interpretation. Define what's non-negotiable and what can adapt.\n\n**Documentation is Key**\nBrand guidelines aren't optional—they're essential for maintaining consistency across teams and time.\n\n**Future-Proofing**\nConsider how your system will extend to platforms and touchpoints that don't exist yet.\n\nA well-designed brand system should feel like a toolkit that empowers rather than restricts creativity.",
+    "image": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=800&q=80",
+    "category": "Branding",
+    "author": "Abenezer Tilahun",
+    "date": "2023-12-20",
+    "readTime": "6 min"
+  },
+  {
+    "id": "4",
+    "title": "From Sketch to Screen: My Design Process",
+    "slug": "sketch-to-screen-design-process",
+    "excerpt": "A behind-the-scenes look at how I approach design projects, from initial concepts to final delivery.",
+    "content": "Every designer has their own process. Here's mine, refined over years of practice:\n\n**Phase 1: Discovery**\nBefore touching any design tool, I immerse myself in research. Understanding the client, audience, competitors, and industry is crucial.\n\n**Phase 2: Ideation**\nArmed with insights, I sketch. Lots of sketches. Quantity leads to quality. No judgment, just exploration.\n\n**Phase 3: Refinement**\nThe best sketches move to digital. Here, I focus on proportion, balance, and technical execution.\n\n**Phase 4: Presentation**\nDesigns aren't just presented—they're sold. I create contexts and mockups that help clients envision the final result.\n\n**Phase 5: Iteration**\nClient feedback shapes the final direction. Collaboration, not ego, drives the best outcomes.\n\n**Phase 6: Delivery**\nFiles are organized, documented, and delivered with comprehensive guidelines.\n\nThe process isn't linear—it's iterative. Don't be afraid to loop back when you learn something new.",
+    "image": "https://images.unsplash.com/photo-1531403009284-440f080d1e12?w=800&q=80",
+    "category": "Process",
+    "author": "Abenezer Tilahun",
+    "date": "2023-12-10",
+    "readTime": "7 min"
+  },
+  {
+    "id": "5",
+    "title": "Color Psychology in Brand Design",
+    "slug": "color-psychology-brand-design",
+    "excerpt": "Understand how color influences perception and emotion, and how to leverage it strategically in your brand work.",
+    "content": "Color is never arbitrary in professional design. Here's how to use it strategically:\n\n**Universal Associations**\n- Red: Energy, urgency, passion\n- Blue: Trust, calm, professionalism\n- Green: Growth, health, nature\n- Yellow: Optimism, warmth, attention\n- Black: Luxury, sophistication, power\n\n**Cultural Considerations**\nColor meanings vary globally. White represents purity in Western cultures but mourning in some Eastern ones.\n\n**Industry Context**\nSome colors dominate industries for good reason. Breaking convention can differentiate you—or confuse your audience.\n\n**Practical Applications**\n- Use color to create hierarchy\n- Ensure sufficient contrast for accessibility\n- Test colors in real contexts\n- Build systematic color palettes\n\nRemember: the 'right' color depends entirely on context. What works for one brand may be wrong for another.",
+    "image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&q=80",
+    "category": "Design Tips",
+    "author": "Abenezer Tilahun",
+    "date": "2023-11-28",
+    "readTime": "5 min"
+  },
+  {
+    "id": "6",
+    "title": "Mastering Client Communication",
+    "slug": "mastering-client-communication",
+    "excerpt": "Design skills alone won't make you successful. Learn how to communicate effectively with clients to build lasting relationships.",
+    "content": "The best designers are also great communicators. Here's what I've learned:\n\n**Set Expectations Early**\nClear scope, timeline, and deliverables prevent misunderstandings. Put everything in writing.\n\n**Explain Your Decisions**\nDon't just show—tell. Clients who understand the reasoning behind design choices become better collaborators.\n\n**Listen More Than You Talk**\nUnderstanding client concerns often reveals the real problem you need to solve.\n\n**Handle Feedback Gracefully**\nNot all feedback is useful, but all feedback deserves respect. Learn to extract the underlying concern from surface-level requests.\n\n**Over-Communicate Progress**\nSilence makes clients nervous. Regular updates, even brief ones, build trust.\n\n**Know When to Push Back**\nYou're the expert. Advocate for good design—respectfully, with reasons.\n\nBuilding client relationships is as much about trust and communication as it is about design talent.",
+    "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?w=800&q=80",
+    "category": "Business",
+    "author": "Abenezer Tilahun",
+    "date": "2023-11-15",
+    "readTime": "6 min"
+  }
+]

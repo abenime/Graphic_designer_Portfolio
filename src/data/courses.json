@@ -1,0 +1,161 @@
+[
+  {
+    "id": "1",
+    "title": "Master Logo Design",
+    "slug": "master-logo-design",
+    "type": "video",
+    "thumbnail": "https://images.unsplash.com/photo-1626785774625-0b1c2c4eab67?w=800&q=80",
+    "description": "Learn the complete process of designing memorable logos from concept to final delivery. Covers research, sketching, digital refinement, and client presentation.",
+    "longDescription": "This comprehensive course takes you through my entire logo design process, refined over 8 years of professional work. You'll learn how to research effectively, generate creative concepts, refine your designs digitally, and present to clients with confidence. By the end, you'll have the skills to create logos that are not just beautiful, but strategically sound.",
+    "duration": "8 hours",
+    "lessons": 24,
+    "level": "Intermediate",
+    "price": 79,
+    "currency": "USD",
+    "whatYouLearn": [
+      "Research and strategy for logo projects",
+      "Sketching techniques for rapid ideation",
+      "Digital refinement in Illustrator",
+      "Creating versatile logo systems",
+      "Presenting work professionally",
+      "Pricing and client management"
+    ],
+    "curriculum": [
+      { "section": "Foundation", "lessons": ["Understanding Logo Types", "Research Methods", "Brand Strategy Basics"] },
+      { "section": "Ideation", "lessons": ["Mind Mapping", "Sketching Techniques", "Concept Development"] },
+      { "section": "Digital Design", "lessons": ["Vector Fundamentals", "Refinement Process", "Color Theory"] },
+      { "section": "Delivery", "lessons": ["File Preparation", "Brand Guidelines", "Client Presentation"] }
+    ],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Typography Essentials",
+    "slug": "typography-essentials",
+    "type": "video",
+    "thumbnail": "https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&q=80",
+    "description": "Understand the art and science of typography. From choosing typefaces to creating typographic hierarchies that enhance your designs.",
+    "longDescription": "Typography is the foundation of great design. This course covers everything from the history and anatomy of type to practical applications in branding, editorial, and digital design. You'll develop an eye for typographic detail and learn how to use type as a powerful design tool.",
+    "duration": "6 hours",
+    "lessons": 18,
+    "level": "Beginner",
+    "price": 59,
+    "currency": "USD",
+    "whatYouLearn": [
+      "Typography history and terminology",
+      "Choosing and pairing typefaces",
+      "Creating visual hierarchy",
+      "Typography in branding",
+      "Web typography best practices",
+      "Custom lettering basics"
+    ],
+    "curriculum": [
+      { "section": "Fundamentals", "lessons": ["History of Type", "Anatomy of Letterforms", "Type Classification"] },
+      { "section": "Application", "lessons": ["Hierarchy Principles", "Pairing Typefaces", "Grid Systems"] },
+      { "section": "Practice", "lessons": ["Editorial Typography", "Brand Typography", "Digital Typography"] }
+    ],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Brand Identity Toolkit",
+    "slug": "brand-identity-toolkit",
+    "type": "resource",
+    "thumbnail": "https://images.unsplash.com/photo-1586717791821-3f44a563fa4c?w=800&q=80",
+    "description": "Complete resource pack for brand identity projects. Includes templates, checklists, mockups, and presentation decks.",
+    "longDescription": "Save hours on every brand identity project with this comprehensive toolkit. Includes everything you need from initial briefing templates to final delivery assets. All templates are fully editable in Adobe Illustrator and Figma.",
+    "fileSize": "2.4 GB",
+    "fileCount": 150,
+    "format": "AI, PSD, Figma, PDF",
+    "price": 49,
+    "currency": "USD",
+    "includes": [
+      "50+ Logo Mockups",
+      "Brand Guidelines Template",
+      "Client Questionnaire",
+      "Project Timeline Template",
+      "Presentation Deck",
+      "Invoice & Contract Templates"
+    ],
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "Illustration for Designers",
+    "slug": "illustration-for-designers",
+    "type": "video",
+    "thumbnail": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?w=800&q=80",
+    "description": "Add illustration to your design toolkit. Learn fundamental techniques to create custom illustrations that elevate your projects.",
+    "longDescription": "Not every designer needs to be a master illustrator, but understanding illustration fundamentals can set your work apart. This course focuses on practical illustration techniques that graphic designers can use to enhance their projects, from simple icons to complex compositions.",
+    "duration": "10 hours",
+    "lessons": 30,
+    "level": "All Levels",
+    "price": 89,
+    "currency": "USD",
+    "whatYouLearn": [
+      "Basic drawing principles",
+      "Digital illustration techniques",
+      "Creating custom icons",
+      "Character design basics",
+      "Composition and color",
+      "Integrating illustration into design"
+    ],
+    "curriculum": [
+      { "section": "Basics", "lessons": ["Drawing Fundamentals", "Shape Language", "Color Theory for Illustration"] },
+      { "section": "Digital Tools", "lessons": ["Procreate Essentials", "Illustrator Techniques", "Building a Workflow"] },
+      { "section": "Application", "lessons": ["Icon Design", "Editorial Illustration", "Brand Illustration"] }
+    ],
+    "featured": false
+  },
+  {
+    "id": "5",
+    "title": "Mockup Template Pack",
+    "slug": "mockup-template-pack",
+    "type": "resource",
+    "thumbnail": "https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&q=80",
+    "description": "100+ high-quality mockups for presenting your designs. Includes print, packaging, digital, and environmental mockups.",
+    "longDescription": "Present your work professionally with this extensive mockup collection. All mockups feature smart objects for easy editing, realistic shadows, and customizable backgrounds. Perfect for client presentations and portfolio pieces.",
+    "fileSize": "3.8 GB",
+    "fileCount": 100,
+    "format": "PSD, Figma",
+    "price": 39,
+    "currency": "USD",
+    "includes": [
+      "Stationery Mockups",
+      "Packaging Mockups",
+      "Device Mockups",
+      "Poster & Print Mockups",
+      "Apparel Mockups",
+      "Scene Creators"
+    ],
+    "featured": false
+  },
+  {
+    "id": "6",
+    "title": "Color Theory Masterclass",
+    "slug": "color-theory-masterclass",
+    "type": "video",
+    "thumbnail": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?w=800&q=80",
+    "description": "Deep dive into color theory and its practical application in design. Create palettes that communicate and captivate.",
+    "longDescription": "Color is one of the most powerful tools in a designer's arsenal. This masterclass covers the science and psychology of color, teaching you how to create palettes that evoke specific emotions and support brand messaging.",
+    "duration": "5 hours",
+    "lessons": 15,
+    "level": "Intermediate",
+    "price": 49,
+    "currency": "USD",
+    "whatYouLearn": [
+      "Color theory fundamentals",
+      "Psychology of color",
+      "Creating harmonious palettes",
+      "Color in branding",
+      "Accessibility considerations",
+      "Cultural color meanings"
+    ],
+    "curriculum": [
+      { "section": "Theory", "lessons": ["Color Wheel Basics", "Color Relationships", "Value and Saturation"] },
+      { "section": "Psychology", "lessons": ["Emotional Impact", "Cultural Considerations", "Industry Standards"] },
+      { "section": "Application", "lessons": ["Building Palettes", "Brand Color Systems", "Digital vs Print"] }
+    ],
+    "featured": false
+  }
+]

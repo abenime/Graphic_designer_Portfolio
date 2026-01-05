@@ -1,0 +1,151 @@
+[
+  {
+    "id": "1",
+    "title": "Nebula Coffee Co.",
+    "slug": "nebula-coffee",
+    "category": "branding",
+    "client": "Nebula Coffee",
+    "year": "2024",
+    "thumbnail": "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1559056199-641a0ac8b55e?w=1200&q=80",
+      "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?w=1200&q=80",
+      "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=1200&q=80"
+    ],
+    "description": "Complete brand identity for a premium specialty coffee roastery. The design captures the cosmic journey of coffee beans from origin to cup.",
+    "challenge": "Create a distinctive brand that stands out in the saturated coffee market while maintaining approachability.",
+    "solution": "Developed a celestial-themed identity system with custom typography and a versatile logo that works across all touchpoints.",
+    "services": ["Logo Design", "Brand Identity", "Packaging", "Marketing Collateral"],
+    "featured": true
+  },
+  {
+    "id": "2",
+    "title": "Echoes Magazine",
+    "slug": "echoes-magazine",
+    "category": "print",
+    "client": "Echoes Publishing",
+    "year": "2024",
+    "thumbnail": "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1586075010923-2dd4570fb338?w=1200&q=80",
+      "https://images.unsplash.com/photo-1504711434969-e33886168f5c?w=1200&q=80",
+      "https://images.unsplash.com/photo-1585829365295-ab7cd400c167?w=1200&q=80"
+    ],
+    "description": "Editorial design for a quarterly arts and culture magazine. Focus on bold typography and immersive visual storytelling.",
+    "challenge": "Design a magazine that appeals to both traditional print lovers and digital-native readers.",
+    "solution": "Created a dynamic grid system that allows for creative layouts while maintaining readability and brand consistency.",
+    "services": ["Editorial Design", "Typography", "Art Direction", "Print Production"],
+    "featured": true
+  },
+  {
+    "id": "3",
+    "title": "Flux Finance App",
+    "slug": "flux-finance",
+    "category": "digital",
+    "client": "Flux Technologies",
+    "year": "2023",
+    "thumbnail": "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1563986768609-322da13575f3?w=1200&q=80",
+      "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=1200&q=80",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80"
+    ],
+    "description": "UI/UX design for a modern fintech application. Clean interfaces with intuitive navigation and data visualization.",
+    "challenge": "Simplify complex financial data and make investment accessible to first-time users.",
+    "solution": "Designed a minimalist interface with progressive disclosure, onboarding flows, and clear visual hierarchy.",
+    "services": ["UI Design", "UX Research", "Prototyping", "Design System"],
+    "featured": true
+  },
+  {
+    "id": "4",
+    "title": "Urban Dreams Series",
+    "slug": "urban-dreams",
+    "category": "illustration",
+    "client": "Personal Project",
+    "year": "2023",
+    "thumbnail": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?w=1200&q=80",
+      "https://images.unsplash.com/photo-1579783902614-a3fb3927b6a5?w=1200&q=80",
+      "https://images.unsplash.com/photo-1547891654-e66ed7ebb968?w=1200&q=80"
+    ],
+    "description": "A personal illustration series exploring the intersection of urban architecture and dreamlike surrealism.",
+    "challenge": "Express the emotional experience of city life through abstract visual narratives.",
+    "solution": "Created a series of digital illustrations combining geometric architecture with organic, flowing elements.",
+    "services": ["Digital Illustration", "Concept Art", "Visual Development"],
+    "featured": true
+  },
+  {
+    "id": "5",
+    "title": "Artisan Bakery",
+    "slug": "artisan-bakery",
+    "category": "branding",
+    "client": "The Artisan Bakery",
+    "year": "2023",
+    "thumbnail": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=1200&q=80",
+      "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=1200&q=80",
+      "https://images.unsplash.com/photo-1517433670267-30f41c09d0a0?w=1200&q=80"
+    ],
+    "description": "Warm and inviting brand identity for a local artisan bakery. Hand-crafted aesthetic meets modern design.",
+    "challenge": "Balance traditional craftsmanship values with contemporary visual appeal.",
+    "solution": "Developed a brand system featuring hand-drawn elements, warm textures, and a custom wordmark.",
+    "services": ["Logo Design", "Brand Identity", "Packaging Design", "Signage"],
+    "featured": false
+  },
+  {
+    "id": "6",
+    "title": "Annual Report 2023",
+    "slug": "annual-report-2023",
+    "category": "print",
+    "client": "Horizon Corp",
+    "year": "2023",
+    "thumbnail": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1200&q=80",
+      "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1200&q=80"
+    ],
+    "description": "Corporate annual report design with infographics and data visualization.",
+    "challenge": "Present dense financial information in an engaging and accessible format.",
+    "solution": "Created custom infographics and a clear visual system for presenting complex data.",
+    "services": ["Report Design", "Infographics", "Data Visualization", "Print Production"],
+    "featured": false
+  },
+  {
+    "id": "7",
+    "title": "Wellness Dashboard",
+    "slug": "wellness-dashboard",
+    "category": "digital",
+    "client": "HealthPlus",
+    "year": "2023",
+    "thumbnail": "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=1200&q=80",
+      "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=1200&q=80"
+    ],
+    "description": "Health tracking dashboard with intuitive data visualization and progress tracking.",
+    "challenge": "Make health data motivating rather than overwhelming for users.",
+    "solution": "Designed a calming interface with celebration moments and gentle progress indicators.",
+    "services": ["Dashboard Design", "UX Design", "Data Visualization"],
+    "featured": false
+  },
+  {
+    "id": "8",
+    "title": "Mythical Creatures",
+    "slug": "mythical-creatures",
+    "category": "illustration",
+    "client": "Children's Press",
+    "year": "2022",
+    "thumbnail": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=800&q=80",
+    "images": [
+      "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=1200&q=80",
+      "https://images.unsplash.com/photo-1551269901-5c5e14c25df7?w=1200&q=80"
+    ],
+    "description": "Illustration series for a children's book featuring mythical creatures from various cultures.",
+    "challenge": "Create culturally respectful illustrations that appeal to young readers.",
+    "solution": "Developed a vibrant, whimsical style that honors cultural origins while being accessible.",
+    "services": ["Book Illustration", "Character Design", "Cover Art"],
+    "featured": false
+  }
+]

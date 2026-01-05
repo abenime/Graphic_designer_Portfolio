@@ -1,0 +1,70 @@
+{
+  "name": "Abenezer Tilahun",
+  "logo": "Abenime",
+  "tagline": "Graphics Designer & Visual Storyteller",
+  "bio": "I'm Abenezer Tilahun, a passionate graphics designer with over 8 years of experience crafting visual narratives that captivate and inspire. My work spans across branding, print design, digital interfaces, and illustration art. I believe design is more than aesthetics—it's about solving problems and creating meaningful connections.",
+  "shortBio": "Creating visual stories that captivate and inspire. Specializing in branding, print, digital design, and illustration.",
+  "location": "Addis Ababa, Ethiopia",
+  "email": "hello@abenime.design",
+  "availability": "Available for freelance projects",
+  "stats": {
+    "yearsExperience": 8,
+    "projectsCompleted": 150,
+    "happyClients": 80,
+    "awardsWon": 12
+  },
+  "skills": [
+    { "name": "Brand Identity", "level": 95 },
+    { "name": "Logo Design", "level": 98 },
+    { "name": "Print Design", "level": 90 },
+    { "name": "UI/UX Design", "level": 85 },
+    { "name": "Illustration", "level": 92 },
+    { "name": "Typography", "level": 94 },
+    { "name": "Motion Graphics", "level": 75 },
+    { "name": "Photo Editing", "level": 88 }
+  ],
+  "tools": [
+    "Adobe Illustrator",
+    "Adobe Photoshop",
+    "Adobe InDesign",
+    "Figma",
+    "Procreate",
+    "After Effects",
+    "Blender"
+  ],
+  "timeline": [
+    {
+      "year": "2016",
+      "title": "Started Design Journey",
+      "description": "Began freelancing as a graphic designer while studying"
+    },
+    {
+      "year": "2018",
+      "title": "First Major Brand Project",
+      "description": "Designed complete brand identity for a tech startup"
+    },
+    {
+      "year": "2020",
+      "title": "Launched Design Studio",
+      "description": "Founded Abenime Design Studio"
+    },
+    {
+      "year": "2022",
+      "title": "International Recognition",
+      "description": "Won multiple design awards and expanded globally"
+    },
+    {
+      "year": "2024",
+      "title": "Education Initiative",
+      "description": "Started teaching design through online courses"
+    }
+  ],
+  "philosophy": "Great design is invisible. It doesn't shout for attention—it simply works. My approach combines strategic thinking with creative execution, ensuring every pixel serves a purpose.",
+  "socialLinks": {
+    "instagram": "https://instagram.com/abenime",
+    "behance": "https://behance.net/abenime",
+    "dribbble": "https://dribbble.com/abenime",
+    "linkedin": "https://linkedin.com/in/abenime",
+    "twitter": "https://twitter.com/abenime"
+  }
+}
