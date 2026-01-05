@@ -1,6 +1,6 @@
-import { useState } from 'react';
-import { Link, useLocation } from 'react-router-dom';
-import { motion, AnimatePresence } from 'framer-motion';
+import { useState } from "react";
+import { Link, useLocation } from "react-router-dom";
+import { motion, AnimatePresence } from "framer-motion";
 import {
   Home,
   User,
@@ -11,9 +11,13 @@ import {
   Mail,
   Menu,
   X,
-} from 'lucide-react';
-import { cn } from '@/lib/utils';
-import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip';
+} from "lucide-react";
+import { cn } from "@/lib/utils";
+import {
+  Tooltip,
+  TooltipContent,
+  TooltipTrigger,
+} from "@/components/ui/tooltip";
 
 interface NavItem {
   icon: React.ReactNode;
@@ -22,13 +26,21 @@ interface NavItem {
 }
 
 const navItems: NavItem[] = [
-  { icon: <Home className="w-5 h-5" />, label: 'Home', path: '/' },
-  { icon: <User className="w-5 h-5" />, label: 'About', path: '/about' },
-  { icon: <Briefcase className="w-5 h-5" />, label: 'Works', path: '/works' },
-  { icon: <GraduationCap className="w-5 h-5" />, label: 'Courses', path: '/courses' },
-  { icon: <BookOpen className="w-5 h-5" />, label: 'Blog', path: '/blog' },
-  { icon: <MessageSquare className="w-5 h-5" />, label: 'Testimonials', path: '/testimonials' },
-  { icon: <Mail className="w-5 h-5" />, label: 'Contact', path: '/contact' },
+  { icon: <Home className="w-5 h-5" />, label: "Home", path: "/" },
+  { icon: <User className="w-5 h-5" />, label: "About", path: "/about" },
+  { icon: <Briefcase className="w-5 h-5" />, label: "Works", path: "/works" },
+  {
+    icon: <GraduationCap className="w-5 h-5" />,
+    label: "Courses",
+    path: "/courses",
+  },
+  { icon: <BookOpen className="w-5 h-5" />, label: "Blog", path: "/blog" },
+  {
+    icon: <MessageSquare className="w-5 h-5" />,
+    label: "Testimonials",
+    path: "/testimonials",
+  },
+  { icon: <Mail className="w-5 h-5" />, label: "Contact", path: "/contact" },
 ];
 
 const FloatingNav = () => {
@@ -50,35 +62,39 @@ const FloatingNav = () => {
             to="/"
             className="flex items-center justify-center p-3 mb-2 text-foreground font-display font-bold text-lg border-b border-border/30"
           >
-            {isExpanded ? 'Abenime' : 'A'}
+            {isExpanded ? "Abenime" : "A"}
           </Link>
 
           {/* Toggle Button */}
           <button
             onClick={() => setIsExpanded(!isExpanded)}
             className="nav-button justify-center mb-2"
-            aria-label={isExpanded ? 'Collapse menu' : 'Expand menu'}
+            aria-label={isExpanded ? "Collapse menu" : "Expand menu"}
           >
-            {isExpanded ? <X className="w-5 h-5" /> : <Menu className="w-5 h-5" />}
+            {isExpanded ? (
+              <X className="w-5 h-5" />
+            ) : (
+              <Menu className="w-5 h-5" />
+            )}
           </button>
 
           {/* Nav Items */}
           {navItems.map((item) => {
             const isActive = location.pathname === item.path;
-            
+
             return (
               <Tooltip key={item.path} delayDuration={0}>
                 <TooltipTrigger asChild>
                   <Link
                     to={item.path}
-                    className={cn('nav-button', isActive && 'active')}
+                    className={cn("nav-button", isActive && "active")}
                   >
                     <span className="flex-shrink-0">{item.icon}</span>
                     <AnimatePresence mode="wait">
                       {isExpanded && (
                         <motion.span
                           initial={{ opacity: 0, width: 0 }}
-                          animate={{ opacity: 1, width: 'auto' }}
+                          animate={{ opacity: 1, width: "auto" }}
                           exit={{ opacity: 0, width: 0 }}
                           transition={{ duration: 0.2 }}
                           className="whitespace-nowrap overflow-hidden text-sm font-medium"
@@ -90,7 +106,10 @@ const FloatingNav = () => {
                   </Link>
                 </TooltipTrigger>
                 {!isExpanded && (
-                  <TooltipContent side="right" className="glass-card border-border/30">
+                  <TooltipContent
+                    side="right"
+                    className="glass-card border-border/30"
+                  >
                     {item.label}
                   </TooltipContent>
                 )}
@@ -136,10 +155,10 @@ const MobileNav = () => {
               className="fixed inset-0 bg-background/80 backdrop-blur-sm z-50 lg:hidden"
             />
             <motion.div
-              initial={{ x: '100%' }}
+              initial={{ x: "100%" }}
               animate={{ x: 0 }}
-              exit={{ x: '100%' }}
-              transition={{ type: 'spring', damping: 25, stiffness: 200 }}
+              exit={{ x: "100%" }}
+              transition={{ type: "spring", damping: 25, stiffness: 200 }}
               className="fixed right-0 top-0 h-full w-72 glass-card rounded-none z-50 lg:hidden p-6"
             >
               <div className="flex justify-between items-center mb-8">
@@ -156,17 +175,17 @@ const MobileNav = () => {
               <nav className="flex flex-col gap-2">
                 {navItems.map((item) => {
                   const isActive = location.pathname === item.path;
-                  
+
                   return (
                     <Link
                       key={item.path}
                       to={item.path}
                       onClick={() => setIsOpen(false)}
                       className={cn(
-                        'flex items-center gap-4 px-4 py-3 rounded-xl transition-all duration-300',
+                        "flex items-center gap-4 px-4 py-3 rounded-xl transition-all duration-300",
                         isActive
-                          ? 'bg-foreground/10 text-foreground'
-                          : 'text-foreground/70 hover:text-foreground hover:bg-foreground/5'
+                          ? "bg-foreground/10 text-foreground"
+                          : "text-foreground/70 hover:text-foreground hover:bg-foreground/5"
                       )}
                     >
                       {item.icon}
