@@ -42,7 +42,7 @@ const FloatingNav = () => {
         initial={{ x: -100, opacity: 0 }}
         animate={{ x: 0, opacity: 1 }}
         transition={{ duration: 0.5, delay: 0.2 }}
-        className="fixed left-6 top-1/2 -translate-y-1/2 z-50 hidden lg:block"
+        className="fixed inset-y-0 left-6 z-50 hidden lg:flex items-center"
       >
         <div className="glass-card p-2 flex flex-col gap-2">
           {/* Logo */}
