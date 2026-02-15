@@ -40,7 +40,7 @@ const About = () => {
                   <div className="glass-card p-6 sticky top-24">
                     <div className="aspect-square rounded-xl overflow-hidden mb-6">
                       <img
-                        src="public/zion.jpg"
+                        src="zion.jpg"
                         alt={profile?.name}
                         className="w-full h-full object-cover img-bw"
                       />
