@@ -1,11 +1,11 @@
 {
-  "name": "Abenezer Tilahun",
-  "logo": "Abenime",
+  "name": "Tsion Tilahun",
+  "logo": "Zion",
   "tagline": "Graphics Designer & Visual Storyteller",
-  "bio": "I'm Abenezer Tilahun, a passionate graphics designer with over 8 years of experience crafting visual narratives that captivate and inspire. My work spans across branding, print design, digital interfaces, and illustration art. I believe design is more than aesthetics—it's about solving problems and creating meaningful connections.",
+  "bio": "I'm Tsion Tilahun, a passionate graphics designer with over 8 years of experience crafting visual narratives that captivate and inspire. My work spans across branding, print design, digital interfaces, and illustration art. I believe design is more than aesthetics—it's about solving problems and creating meaningful connections.",
   "shortBio": "Creating visual stories that captivate and inspire. Specializing in branding, print, digital design, and illustration.",
   "location": "Addis Ababa, Ethiopia",
-  "email": "hello@abenime.design",
+  "email": "hello@zion.design",
   "availability": "Available for freelance projects",
   "stats": {
     "yearsExperience": 8,
@@ -46,7 +46,7 @@
     {
       "year": "2020",
       "title": "Launched Design Studio",
-      "description": "Founded Abenime Design Studio"
+      "description": "Founded Zion Design Studio"
     },
     {
       "year": "2022",
@@ -56,15 +56,15 @@
     {
       "year": "2024",
       "title": "Education Initiative",
-      "description": "Started teaching design through online courses"
+      "description": "Started teaching design through online workshops"
     }
   ],
   "philosophy": "Great design is invisible. It doesn't shout for attention—it simply works. My approach combines strategic thinking with creative execution, ensuring every pixel serves a purpose.",
   "socialLinks": {
-    "instagram": "https://instagram.com/abenime",
-    "behance": "https://behance.net/abenime",
-    "dribbble": "https://dribbble.com/abenime",
-    "linkedin": "https://linkedin.com/in/abenime",
-    "twitter": "https://twitter.com/abenime"
+    "instagram": "https://instagram.com/zion",
+    "behance": "https://behance.net/zion",
+    "dribbble": "https://dribbble.com/zion",
+    "linkedin": "https://linkedin.com/in/zion",
+    "twitter": "https://twitter.com/zion"
   }
 }

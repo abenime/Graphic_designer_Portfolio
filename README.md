@@ -1,6 +1,6 @@
-## Graphic Designer Portfolio (Abenime)
+## Graphic Designer Portfolio (Zion)
 
-Modern single-page-style portfolio for Abenezer Tilahun (Abenime) featuring animated hero, floating navigation, filterable work gallery, courses/resources, blog, testimonials, and a contact form with toast feedback. Built with Vite, React, TypeScript, Tailwind, shadcn-ui, React Query, and Framer Motion.
+Modern single-page-style portfolio for Tsion Tilahun (Zion) featuring animated hero, floating navigation, filterable work gallery, blog, testimonials, and a contact form with toast feedback. Built with Vite, React, TypeScript, Tailwind, shadcn-ui, React Query, and Framer Motion.
 
 ### Highlights
 

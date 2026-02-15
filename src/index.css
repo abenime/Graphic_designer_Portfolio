@@ -4,7 +4,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* Abenime Portfolio - Dark Glassmorphism Design System */
+/* Zion Portfolio - Dark Glassmorphism Design System */
 
 @layer base {
   :root {
@@ -114,7 +114,8 @@
   /* Glassmorphism Card */
   .glass-card {
     @apply bg-card/30 backdrop-blur-xl border border-border/30 rounded-xl;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4),
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.4),
       inset 0 1px 0 rgba(255, 255, 255, 0.05);
   }
 
@@ -124,7 +125,8 @@
 
   .glass-card-hover:hover {
     @apply border-border/50 bg-card/40;
-    box-shadow: 0 16px 48px rgba(0, 0, 0, 0.5),
+    box-shadow:
+      0 16px 48px rgba(0, 0, 0, 0.5),
       inset 0 1px 0 rgba(255, 255, 255, 0.1);
     transform: translateY(-4px);
   }
@@ -134,19 +136,23 @@
     @apply relative flex items-center gap-3 px-4 py-3 rounded-xl
            bg-background/30 backdrop-blur-xl border border-border/40
            text-foreground/80 transition-all duration-300;
-    box-shadow: 0 4px 24px rgba(0, 0, 0, 0.3),
+    box-shadow:
+      0 4px 24px rgba(0, 0, 0, 0.3),
       inset 0 1px 0 rgba(255, 255, 255, 0.05);
   }
 
   .nav-button:hover {
     @apply bg-background/50 border-foreground/30 text-foreground;
-    box-shadow: 0 8px 32px rgba(0, 0, 0, 0.4),
-      inset 0 1px 0 rgba(255, 255, 255, 0.1), 0 0 20px rgba(255, 255, 255, 0.05);
+    box-shadow:
+      0 8px 32px rgba(0, 0, 0, 0.4),
+      inset 0 1px 0 rgba(255, 255, 255, 0.1),
+      0 0 20px rgba(255, 255, 255, 0.05);
   }
 
   .nav-button.active {
     @apply bg-foreground/10 border-foreground/50 text-foreground;
-    box-shadow: 0 0 30px rgba(255, 255, 255, 0.1),
+    box-shadow:
+      0 0 30px rgba(255, 255, 255, 0.1),
       inset 0 1px 0 rgba(255, 255, 255, 0.1);
   }
 

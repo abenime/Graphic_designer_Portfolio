@@ -37,7 +37,7 @@ export interface Work {
   id: string;
   title: string;
   slug: string;
-  category: 'branding' | 'print' | 'digital' | 'illustration';
+  category: "branding" | "print" | "digital" | "illustration";
   client: string;
   year: string;
   thumbnail: string;
@@ -46,31 +46,6 @@ export interface Work {
   challenge: string;
   solution: string;
   services: string[];
-  featured: boolean;
-}
-
-export interface Course {
-  id: string;
-  title: string;
-  slug: string;
-  type: 'video' | 'resource';
-  thumbnail: string;
-  description: string;
-  longDescription: string;
-  duration?: string;
-  lessons?: number;
-  level?: string;
-  fileSize?: string;
-  fileCount?: number;
-  format?: string;
-  price: number;
-  currency: string;
-  whatYouLearn?: string[];
-  includes?: string[];
-  curriculum?: {
-    section: string;
-    lessons: string[];
-  }[];
   featured: boolean;
 }
 
