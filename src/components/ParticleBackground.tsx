@@ -26,7 +26,7 @@ const ParticleBackground = ({
     async (container: Container | undefined) => {
       console.log("Particles loaded", container);
     },
-    []
+    [],
   );
 
   const options: ISourceOptions = useMemo(
@@ -105,7 +105,7 @@ const ParticleBackground = ({
       },
       detectRetina: true,
     }),
-    [interactive]
+    [interactive],
   );
 
   if (!init) {

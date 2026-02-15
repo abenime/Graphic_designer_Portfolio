@@ -89,7 +89,6 @@ const Index = () => {
               </div>
             </AnimatedText>
           </div>
-
         </section>
 
         {/* Stats Section */}
