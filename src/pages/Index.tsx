@@ -54,14 +54,15 @@ const Index = () => {
 
             <AnimatedText delay={0.4}>
               <p className="text-xl md:text-2xl text-muted-foreground mb-4 max-w-2xl mx-auto">
-                {profile?.tagline || "Graphics Designer & Visual Storyteller"}
+                {profile?.tagline ||
+                  "Graphics Designer, Social Media Manager & Content Creator"}
               </p>
             </AnimatedText>
 
             <AnimatedText delay={0.5}>
               <p className="text-base text-muted-foreground/70 mb-12 max-w-xl mx-auto">
                 {profile?.shortBio ||
-                  "Creating visual stories that captivate and inspire."}
+                  "Designing bold visuals and content that connect."}
               </p>
             </AnimatedText>
 
